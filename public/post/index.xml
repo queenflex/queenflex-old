@@ -1,38 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>queenflex blog</title>
-    <link>https://queenflex.github.io/index.xml</link>
-    <description>Recent content on queenflex blog</description>
+    <title>Post-rsses on queenflex blog</title>
+    <link>https://queenflex.github.io/post/index.xml</link>
+    <description>Recent content in Post-rsses on queenflex blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. queenflex.com. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 24 Nov 2016 20:15:17 -0500</lastBuildDate>
-    <atom:link href="https://queenflex.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>about</title>
-      <link>https://queenflex.github.io/about/</link>
-      <pubDate>Thu, 24 Nov 2016 20:15:17 -0500</pubDate>
-      
-      <guid>https://queenflex.github.io/about/</guid>
-      <description>
-
-&lt;p&gt;&lt;em&gt;My brain is a continuum of fitnessesque thoughts; I tend to think a lot about how to improve my life through fitness, nutrition, recovery, and lifestyle changes. In the queenflex blog you will find all the random and insightful fitness ideas I&amp;rsquo;ve decided to jot down. This collection of articles is based on what I&amp;rsquo;ve read and what I&amp;rsquo;ve learned through trial-and-error. So go ahead, read some articles, drop a comment (or two), and work with me to become the person you&amp;rsquo;ve dreamt of being.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;some-fun-facts-about-this-blog&#34;&gt;&lt;em&gt;Some fun facts about this blog:&lt;/em&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Born in Fall 2015 the aim to promote fitness, motivation, and healthy lifestyles.&lt;/li&gt;
-&lt;li&gt;Built in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt; using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; and hosted on &lt;a href=&#34;http://github.com&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Coded and maintained in &lt;a href=&#34;https://sublimetext.com/2&#34;&gt;sublime text 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;All the articles are written by &lt;a href=&#34;https://twitter.com/lizmillerfit&#34;&gt;@lizmillerfit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Redesigned multiple times using various blogger templates before migrating to Hugo.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thanks for reading!&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Thu, 24 Nov 2016 20:10:14 -0500</lastBuildDate>
+    <atom:link href="https://queenflex.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>an 8-minute cool-down routine</title>
@@ -41,26 +17,6 @@
       
       <guid>https://queenflex.github.io/post/eight-minute-routine/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>1-rm progression calculator</title>
-      <link>https://queenflex.github.io/calculator/</link>
-      <pubDate>Thu, 24 Nov 2016 15:20:16 -0500</pubDate>
-      
-      <guid>https://queenflex.github.io/calculator/</guid>
-      <description>&lt;p&gt;Ever struggle to figure out how much weight you should use per set during a 1-rep-max test?&lt;/p&gt;
-
-&lt;p&gt;Well, look no further! Here&amp;rsquo;s a calculator that you can use to determine how much weight you should use for each of your warm-up and working sets in order to reach your target 1RM.&lt;/p&gt;
-
-&lt;p&gt;Input your target 1RM weight into the &amp;ldquo;target 1RM weight&amp;rdquo; field as well as the set number. The calculator will output the number of reps and respective weight you should hit for the given set. All calculations are based on the recommendations from &lt;a href=&#34;https://www.t-nation.com/training/how-to-warm-up-for-a-one-rep-max&#34;&gt;this T-Nation article&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Enjoy!&lt;/p&gt;
-
-&lt;p&gt;Tool courtesy of &lt;a href=&#34;https://queenflex.com&#34;&gt;queenflex.com&lt;/a&gt;, written by &lt;a href=&#34;https://twitter.com/lizmillerfit&#34;&gt;@lizmillerfit&lt;/a&gt; on &lt;a href=&#34;https://jscalc.io&#34;&gt;jscalc.io&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe src=&#34;https://jscalc.io/embed/aQMGRFvVJOGJW6Iq?autofocus=1&#34; width=&#34;760&#34; height=&#34;500&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; style=&#34;border: 1px solid rgba(0,0,0,0.12)&#34;&gt;&lt;/iframe&gt;
-</description>
     </item>
     
     <item>
@@ -759,6 +715,64 @@ Actually, I’m suggesting an alternative method, selective training. If you fee
 &lt;p&gt;Now I know that sometimes injuries are much more complex than a little case of the shin-splints. In complex injuries, you need to use your best judgement. Don’t push yourself to the point where you’re physically disintegrating. You’re training with a purpose. You want to become a better, more polished version of yourself. So instead of dropping all fitness entirely when an injury strikes, strike back and play smart. If upper body is injured, work legs. Go for a jog. Keep up your cardio. Do some active stretching and rehabilitation exercises. Be mindful of yourself and your goals, and take the time to turn your injury into an opportunity for future prevention and a successful recovery. Fitness is probably the greatest game composed of lifting, nutrition, and competition. Take care of yourself by doing the recommended stretches in preparation for your training routine. Your body will thank you for it afterwards!&lt;/p&gt;
 
 &lt;p&gt;&lt;sub&gt; &lt;em&gt;Previously published on December 3, 2014 on SpotMeGirl.com&lt;/em&gt; &lt;/sub&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>healthy protein pancakes</title>
+      <link>https://queenflex.github.io/post/protein-pancakes/</link>
+      <pubDate>Tue, 15 Sep 2015 22:15:52 +0000</pubDate>
+      
+      <guid>https://queenflex.github.io/post/protein-pancakes/</guid>
+      <description>&lt;p&gt;Do you get hit with morning cravings for all the stuff you shouldn’t be eating? Try our take on a traditional McDonalds favorite, modified without the added fats, sugars, and unhealthiness. Tweet your recipes and modifications to this awesome breakfast sandwich!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; cup 100% Liquid Egg Whites&lt;/li&gt;
+&lt;li&gt;1 large whole Egg&lt;/li&gt;
+&lt;li&gt;50g Plain Greek Yogurt&lt;/li&gt;
+&lt;li&gt;50g Vanilla Greek Yogurt&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; cup Quaker Quick Oats&lt;/li&gt;
+&lt;li&gt;1 pinch Stevia (optional)&lt;/li&gt;
+&lt;li&gt;1-2 pinches Ground Cinnamon (optional, but this really makes the dish tasty)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tools&#34;&gt;Tools:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Griddle/Stove Pan&lt;/li&gt;
+&lt;li&gt;Nonstick cooking spray (fat free/cal free)&lt;/li&gt;
+&lt;li&gt;Wisk&lt;/li&gt;
+&lt;li&gt;Spatula&lt;/li&gt;
+&lt;li&gt;Ladle&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;directions&#34;&gt;Directions:&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Turn stove burner or griddle on high and coat with non-stick spray&lt;/li&gt;
+&lt;li&gt;Mix all of the dry ingredients together&lt;/li&gt;
+&lt;li&gt;Wisk &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; cup egg whites with the plain and vanilla Greek yogurts until the mixture is fluffy and smooth.&lt;/li&gt;
+&lt;li&gt;Combine the dry ingredients to the wet ingredients. Be careful not to over-mix.&lt;/li&gt;
+&lt;li&gt;Use a ladle to add the griddler mixture to the stove pan/griddle. Wait until bubbly and then flip to cook each side. (similar process to making pancakes)&lt;/li&gt;
+&lt;li&gt;Pour remaining &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; cup of egg whites on the stove pan/griddle in a thin layer. Fry the whole egg as well. Flip once cooked.&lt;/li&gt;
+&lt;li&gt;Plate the griddlers and add a small layer of the egg whites/fried egg to the top&lt;/li&gt;
+&lt;li&gt;Add another griddler to the top to make a sandwich, or leave open-faced.&lt;/li&gt;
+&lt;li&gt;Let cool and enjoy.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;modifications&#34;&gt;Modifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Use PB2 or peanut butter on the underside of each griddler as a condiment for the sandwich&lt;/li&gt;
+&lt;li&gt;Add chopped nuts to the dry ingredients to add a crunchiness&lt;/li&gt;
+&lt;li&gt;Serve without the eggs as a stack of pancakes&lt;/li&gt;
+&lt;li&gt;Use all egg whites instead of adding in the whole egg.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;sub&gt; &lt;em&gt;Previously published on August 6, 2014 on SpotMeGirl.com&lt;/em&gt; &lt;/sub&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
